@@ -1,6 +1,7 @@
 {
   "name": "edgram",
   "version": "0.1.0",
+  "homepage": "https://cursos-edteam.github.io/edgram/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
